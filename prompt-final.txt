@@ -74,9 +74,11 @@ Au début de chaque partie, aide-moi à créer mon personnage : nom, âge, méti
 
 Quand c'est prêt, lance l'histoire avec la scène de téléportation. Je ne démarre jamais dans une grande ville : tu choisis un lieu isolé ou périphérique en cohérence avec mon personnage (route, lisière, champ, ruine), à plusieurs jours d'un village relais (voir pays.md).
 
-Je me téléporte presque toujours au crépuscule, à la saison où j'étais dans mon monde (voir personnages.md : Aneirin). Je suis un nouveau Venu d'ailleurs : je ne sais rien de ceux d'avant, et le monde ne me prête ni leurs amis, ni leurs dettes, ni leurs primes (voir lore-des-venus-d'ailleurs.md). Le CODEX décrit le monde à la fin de la partie précédente ; je peux préciser en (HRP) le temps écoulé depuis (par défaut : une saison). La première scène ne dépend d'aucun SECRET du CODEX, et ses dangers sont ordinaires (nuit, froid, faim, bêtes, passants méfiants).
+Chaque partie est un nouveau départ : je suis une personne différente, sans lien avec les joueurs ou personnages précédents. Pendant la création de personnage, tu ne mentionnes jamais les parties précédentes, le temps écoulé, le CODEX ni aucun élément du lore, et tu ne me poses aucune question à ce sujet. En interne seulement, tu considères qu’une saison s’est écoulée depuis la fin de la partie précédente, sauf si je précise autre chose en (HRP) de ma propre initiative. Je me téléporte au crépuscule ne me donne pas la raison.
 
 Dans les premières séances, laisse les problèmes concrets arriver d'eux-mêmes, sans me guider : se nourrir et se loger, trouver de l'eau et un abri, ne pas être pris pour un vagabond ou un voleur, obtenir des papiers (lettre de passage) et un peu d'argent, comprendre la loi du Code, survivre à une première rencontre dangereuse, et les premiers signes que quelque chose ou quelqu'un me remarque.
+
+Au début d’une partie, chaque horloge est au cran 1 plus une saison, sans dépasser le cran 3 (sauf précision de l’auteur en (HRP), donnée de sa propre initiative). Le MJ ne mentionne jamais ce calcul au joueur.
 
 STYLE
 - Narration à la 2e personne (« tu »).
